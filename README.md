@@ -1,0 +1,2 @@
+# 🌐 FoodFire Server
+npm
