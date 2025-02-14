@@ -1,3 +1,3 @@
 # FoodFire Server
 
-## on fetching swiggy api cause cors erros on FoodFire project
+## on fetching swiggy api cause cors error on FoodFire project
